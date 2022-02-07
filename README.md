@@ -4,9 +4,8 @@ Machine Learning Classification Model
 Building a predictive model on a binomial response variable including feature engineering, model preparation, variable selection, and model development.
 
 
-
-**Case Introduction
-**A Machine Learning analysis to predict Revenue and Cross Sell Success for Halfway There was conducted.
+Case Introduction
+A Machine Learning analysis to predict Revenue and Cross Sell Success for Halfway There was conducted.
 
 Revenue
 The OLS Regression Model results in an R-squared value of 0.748.
